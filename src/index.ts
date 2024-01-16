@@ -30,3 +30,4 @@ connectToDatabase(); // Connect to MongoDB on server startup
 
 
 app.use('/', router());
+export default app;
